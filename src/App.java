@@ -22,6 +22,7 @@ public class App {
 
         for (Alumno a : alumnos) {
             System.out.println(a);
+            
         }
 
 
